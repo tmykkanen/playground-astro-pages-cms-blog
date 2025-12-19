@@ -1,5 +1,6 @@
 ---
 title: Church Membership
+order: 2
 ---
 ## On Membership
 
