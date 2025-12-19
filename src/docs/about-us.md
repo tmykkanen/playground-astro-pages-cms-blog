@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Beliefs
 order: 1
 ---
 ### **Foundation, Purpose, and Chief Priority**
