@@ -2,8 +2,8 @@ media:
   input: public/media
   output: /media
 content:
-  - name: docs
-    label: Documentation
+  - name: pages
+    label: Pages
     type: collection
     path: src/docs
     filename: "{primary}.md"
