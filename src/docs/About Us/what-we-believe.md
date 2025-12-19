@@ -1,5 +1,6 @@
 ---
 title: What We Believe
+order: 1
 ---
 ### **Foundation, Purpose, and Chief Priority**
 
